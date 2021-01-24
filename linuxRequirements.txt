@@ -1,0 +1,37 @@
+Requirements #1. Include the commands below each step to show answers.
+
+1. From your home user directory, create a directory called 'chhatra'
+mkdir
+$
+
+2. Go inside the directory and create another directory called 'khadka'
+
+$cd chhatra
+$mkdir 
+
+
+3. Go inside the directory khadka, and creat a file called sample.txt
+
+$ touch
+
+4. Type 'Hello this is my first linux lesson' inside the file using any of the available linux text editor method
+
+$echo commandls
+
+5. Check the content of your file sample.txt
+
+$catcd
+
+6. Return to the home directory (you have to hop to two parent directorr)
+
+$cd ../..
+
+7. Delete the folder/directory chhatra recursively(it will be used to delete folders disregarding the file contents and subdirectories)
+
+rm -r
+
+$
+
+$
+
+
